@@ -18,117 +18,125 @@
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="VsCode" />
-      <br>VsCode
+      <br>CSS
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="WordPress" />
-      <br>WordPress
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="Vue" />
-      <br>Vue
+      <br>TypeScript
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Sass" />
-      <br>Sass
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="MySQL" />
-      <br>GraphQL
+      <br>PHP
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="PostgreSQL" />
-      <br>Supabase
+      <br>Python
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="PostgreSQL" />
-      <br>Supabase
+      <br>Git
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bitbucket" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
+      <br>BitBucket
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
+      <br>GitHub
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="PHP" />
-      <br>.NET
+      <br>GitLab
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="VsCode" />
-      <br>VsCode
+      <br>Azure
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="WordPress" />
-      <br>WordPress
+      <br>Firebase
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Vue" />
-      <br>Vue
+      <br>Supabase
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Sass" />
-      <br>Sass
+      <br>Vercel
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="MySQL" />
-      <br>GraphQL
+      <br>AI
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="PostgreSQL" />
-      <br>Supabase
+      <br>PS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="PostgreSQL" />
+      <br>Discord
     </td>
  </tr>
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
+      <br>Angular
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
+      <br>React
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="PHP" />
-      <br>.NET
+      <br>Vue
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="VsCode" />
-      <br>VsCode
+      <br>Next
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="WordPress" />
-      <br>WordPress
+      <br>Laravel
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Vue" />
-      <br>Vue
+      <br>Django
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Sass" />
-      <br>Sass
+      <br>Node.js
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="MySQL" />
-      <br>GraphQL
+      <br>Nuxt
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="PostgreSQL" />
-      <br>Supabase
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="PostgreSQL" />
+      <br>Astro
     </td>
  </tr>
  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
+      <br>Anaconda
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=d3" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
+      <br>D3
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="PHP" />
@@ -136,27 +144,31 @@
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="VsCode" />
-      <br>VsCode
+      <br>Fast API
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="WordPress" />
-      <br>WordPress
+      <br>Tailwind CSS
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Vue" />
-      <br>Vue
+      <br>Ubuntu
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Sass" />
-      <br>Sass
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Sass" />
+      <br>Unity
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="MySQL" />
-      <br>GraphQL
+      <br>Unreal
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="PostgreSQL" />
-      <br>Supabase
+      <br>Windows
+    </td>
+   <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=autocad" width="48" height="48" alt="PostgreSQL" />
+      <br>AutoCAD
     </td>
  </tr>
 </table>
