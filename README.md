@@ -1,4 +1,4 @@
-# Hi there. 👋 I am Akira Yamamoto.
+## Hi there. 👋 I am Akira Yamamoto.
 ### I am senior software developer & engineer.
 
 <br/>
