@@ -1,5 +1,5 @@
-### Hi there. 👋 I am Akira Yamamoto.
-## I am senior software developer & engineer.
+# Hi there. 👋 I am Akira Yamamoto.
+### I am senior software developer & engineer.
 
 <br/>
 <table align="center">
