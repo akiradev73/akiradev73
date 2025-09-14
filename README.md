@@ -1,5 +1,5 @@
 ## Hi there. 👋 I am Akira Nakao.
-### I am senior software developer & engineer.
+### I am a software developer & engineer.
 
 <br/>
 <table align="center">
